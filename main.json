@@ -56,47 +56,6 @@
       "SubmissionUrl": "https://forms.gle/WTzyX7DCTPf5ZDjj8"
     }
   ],
-  "StatusTV": [
-    {
-      "isLive": true,
-      "isWorking": true,
-      "isTest": false,
-      "showAds": false,
-      "showBannerAds": false,
-      "showInterstitialAds": false,
-      "TVDelay": 60000,
-      "VideoDelay": 60000,
-      "MoviesInfoDelay": 60000,
-      "SeriesInfoDelay": 60000,
-      "MaxDailyAdRequests": 100,
-      "isActivationRequired": true,
-      "promote": false,
-      "promoteTitle": "MovieFlix Update Available",
-      "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
-      "promoteButtonTitle": "Download Now!",
-      "promoteUrl": "https://www.filmxy.vip/",
-      "promoteNotes": "*Keep in mind that...",
-      "promoteMessage": "",
-      "MessageOld": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 22/12/2023\nΜείνετε συντονισμένοι!",
-      "MessageUpdate": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο.",
-      "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.0.5) της εφαρμογής \"MovieFlix: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
-      "minVersion": "1.0.0",
-      "maxVersion": "1.0.2",
-      "contactName": "Med1a Ltd",
-      "contactEmail": "medialtdcontact@gmail.com",
-      "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"MovieFlix\"",
-      "contactMessage": " Αγαπητή ομάδα προγραμματιστών της εφαρμογής \"MovieFlix\",\nπήρα την απόφαση να σας αποστείλλω το συγκεκριμένο μήνυμα προκειμένου να",
-      "PrivacyPolicyUrl": "https://sites.google.com/view/movieflix-policy",
-      "DMCAUrl": "https://forms.gle/VBzgJBp2R8cTacsL8",
-      "MoreImageUrl": "https://i.ibb.co/nRkWFQG/MORE.png",
-      "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
-      "DMCAImageUrl": "https://i.ibb.co/6wdZZ5x/Untitled-3.png",
-      "CodeExample": "greek_version_2020",
-      "MoreContentOption": false,
-      "AddContentOption": true,
-      "AddContentFormUrl": "https://forms.gle/R1FP8YZ18fBLYNfb9"
-    }
-  ],
   "RatingTV": [
     {
       "isRatingVisible": true,
