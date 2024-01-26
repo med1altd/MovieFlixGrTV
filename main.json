@@ -7,11 +7,10 @@
       "showAds": false,
       "showBannerAds": false,
       "showInterstitialAds": true,
-      "TVDelay": 30000,
-      "VideoDelay": 30000,
-      "MoviesInfoDelay": 45000,
-      "SeriesInfoDelay": 45000,
-      "MaxDailyAdRequests": 100,
+      "TVDelay": 60000,
+      "VideoDelay": 60000,
+      "MoviesInfoDelay": 60000,
+      "SeriesInfoDelay": 60000,
       "isActivationRequired": true,
       "promote": false,
       "promoteTitle": "MovieFlix Update Available",
@@ -22,9 +21,9 @@
       "promoteMessage": "",
       "MessageOld": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 22/12/2023\nΜείνετε συντονισμένοι!",
       "MessageUpdate": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο.",
-      "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.0.8) της εφαρμογής \"MovieFlix: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
+      "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.0.3) της εφαρμογής \"MovieFlix: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
       "minVersion": "1.0.0",
-      "maxVersion": "1.0.8",
+      "maxVersion": "1.0.3",
       "contactName": "Med1a Ltd",
       "contactEmail": "medialtdcontact@gmail.com",
       "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"MovieFlix\"",
@@ -70,51 +69,24 @@
     {
       "TV": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionTV.json"
+          "Url": "https://med1altd.github.io/MovieFlixGrTV/basicVersionTV.json"
         }
       ],
       "Movies": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionET.json",
-          "Category": 1
-        }
-      ],
-      "Series": [
-        {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionETS.json",
-          "Category": 2
-        }
-      ],
-      "Kids": [
-        {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionPYK.json",
-          "Category": 2
-        }
-      ]
-    }
-  ],
-   "Standard": [
-    {
-      "TV": [
-        {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionTV.json"
-        }
-      ],
-      "Movies": [
-        {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionET.json",
+          "Url": "https://med1altd.github.io/MovieFlixGrTV/basicVersionET.json",
           "Category": 0
         }
       ],
       "Series": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionETS.json",
+          "Url": "https://med1altd.github.io/MovieFlixGrTV/basicVersionETS.json",
           "Category": 2
         }
       ],
       "Kids": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionPYK.json",
+          "Url": "https://med1altd.github.io/MovieFlixGrTV/basicVersionPYK.json",
           "Category": 2
         }
       ]
@@ -129,86 +101,24 @@
         {
           "TV": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionTV.json"
+              "Url": "https://med1altd.github.io/MovieFlixGrTV/greekVersionTV.json"
             }
           ],
           "Movies": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionKTMY.json",
-              "Category": 0
-            },
-            {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionET.json",
-              "Category": 1
-            },
-            {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionEPT.json",
-              "Category": 2
-            }
-          ],
-          "Series": [
-            {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionKSMY.json",
-              "Category": 0
-            },
-            {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionES.json",
-              "Category": 1
-            },
-            {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionETS.json",
-              "Category": 2
-            }
-          ],
-          "Kids": [
-            {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionMPT.json",
-              "Category": 0
-            },
-            {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionMPS.json",
-              "Category": 1
-            },
-            {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionPYK.json",
-              "Category": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Code": "1367222023",
-      "Active": true
-    }
-  ],
-  "Access": [
-    {
-      "Code": "greek_version_2023",
-      "Active": false,
-      "Valid": true,
-      "JSON_Urls": [
-        {
-          "TV": [
-            {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionTV.json"
-            }
-          ],
-          "Movies": [
-            {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionKTMY.json",
+              "Url": "https://med1altd.github.io/MovieFlixGrTV/greekVersionKTMY.json",
               "Category": 0
             }
           ],
           "Series": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionKSMY.json",
+              "Url": "https://med1altd.github.io/MovieFlixGrTV/greekVersionKSMY.json",
               "Category": 0
             }
           ],
           "Kids": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionMPT.json",
+              "Url": "https://med1altd.github.io/MovieFlixGrTV/greekVersionMPT.json",
               "Category": 0
             }
           ]
@@ -224,7 +134,7 @@
     {
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
       "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
-      "JSON": "https://med1altd.github.io/MovieFlixGr/basicVersionET.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGrTV/basicVersionET.json",
       "isUnlocked": true
     }
   ],
@@ -232,7 +142,7 @@
     {
       "Title": "Ελληνικές Τηλεοπτικές Σειρές",
       "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
-      "JSON": "https://med1altd.github.io/MovieFlixGr/basicVersionETS.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGrTV/basicVersionETS.json",
       "isUnlocked": true
     }
   ],
@@ -240,7 +150,7 @@
     {
       "Title": "Παιδικά YouTube Κανάλια",
       "Image": "https://media1.popsugar-assets.com/files/thumbor/137KqO7Jfs_zQ2GGiAHgLUqAHkU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/05/26/739/n/24155406/6f24e5c65e5331bb_download_1_/i/CoComelon.jpeg",
-      "JSON": "https://med1altd.github.io/MovieFlixGr/basicVersionPYK.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGrTV/basicVersionPYK.json",
       "isUnlocked": true
     }
   ],
