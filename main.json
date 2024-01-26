@@ -117,7 +117,7 @@
       ]
     }
   ],
-   "StandardTV": [
+   "Standard": [
     {
       "TV": [
         {
@@ -206,7 +206,7 @@
       "Active": true
     }
   ],
-  "AccessTV": [
+  "Access": [
     {
       "Code": "greek_version_2023",
       "Active": false,
