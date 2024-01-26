@@ -6,7 +6,7 @@
       "isTest": false,
       "showAds": false,
       "showBannerAds": false,
-      "showInterstitialAds": true,
+      "showInterstitialAds": false,
       "TVDelay": 60000,
       "VideoDelay": 60000,
       "MoviesInfoDelay": 60000,
@@ -37,7 +37,7 @@
       "MoreContentOption": false,
       "AddContentOption": true,
       "AddContentFormUrl": "https://forms.gle/R1FP8YZ18fBLYNfb9",
-      "checkForUpdates": true
+      "checkForUpdates": false
     }
   ],
   "Pre-Unlocked": [
